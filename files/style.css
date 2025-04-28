@@ -1,0 +1,59 @@
+html{
+    background-color: #222831;
+    color: #EEEEEE;
+    font-family: "Lalezar", sans-serif;    
+    
+}
+#red{
+    
+    text-align: right;
+    background-color: #393E46;
+    height: 100px;
+    padding-top: 10px;
+    border: #EEEEEE solid ;
+    padding-right: 15px;
+}
+#headeer{
+    text-align: left;
+    font-size: medium;
+    height: 10px;
+    line-height: 1px ; /* text will be vertically centered */
+    padding-left: 10px;
+    padding-bottom: 25px;
+    }
+#who{
+    text-align: right;
+    background-color: #393E46;
+    height: 100px;
+    padding-top: 10px;
+    border: #EEEEEE solid ;
+    padding-right: 15px;
+}
+p{
+    text-align: right;
+}
+h2{
+    font-weight: normal;
+    text-align: right;
+}
+#haln{
+    font-weight: lighter;
+    font-size: larger;
+}
+a{
+    color: #EEEEEE;
+    text-decoration: none;
+}
+img{
+    width:15%;
+
+}
+#pics{
+    width: 100%; 
+    margin-top: 100px;
+    text-align: center;
+}
+.klam{
+
+    text-align: center;
+}
